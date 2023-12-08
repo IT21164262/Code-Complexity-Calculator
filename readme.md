@@ -1,2 +1,2 @@
 # Code Complexity Calculator
-ITPM Group Project 3rd year 1st semester
+3rd year 2nd sem ITPM
